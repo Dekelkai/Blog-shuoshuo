@@ -1,24 +1,41 @@
 [
   {
-    "author": "Butterfly",
-    "avatar": "https://butterfly.js.org/img/avatar.png",
-    "date": "2024-06-21 23:33:26",
-    "content": "This is a sample content for **Author 1**.",
+    "author": "爱因斯坦",
+    "avatar": "https://cdn.jsdelivr.net/gh/Dekelkai/bucket@img/imgs/20251001195507925.png",
+    "date": "2024-06-22 10:15:00",
+    "content": "想象力比知识更重要，因为知识是有限的，而想象力概括着世界上的一切，推动着进步，并且是知识进化的源泉。",
     "key": "key-1",
-    "tags": ["tags1", "tags2"]
+    "tags": ["想象力", "知识", "思考"]
   },
   {
-    "author": "Butterfly",
-    "avatar": "https://butterfly.js.org/img/avatar.png",
-    "date": "2024-06-20 23:33:26",
-    "content": "This is a sample content for **Author 2**.",
+    "author": "尼采",
+    "avatar": "https://cdn.jsdelivr.net/gh/Dekelkai/bucket@img/imgs/20251001195606495.png",
+    "date": "2024-06-21 18:45:12",
+    "content": "那些杀不死我的，都将使我更强大。",
     "key": "key-2",
-    "tags": ["tag2", "tag3"]
+    "tags": ["成长", "坚韧"]
   },
   {
-    "author": "Butterfly",
-    "avatar": "https://butterfly.js.org/img/avatar.png",
-    "date": "2024-06-19 23:33:26",
-    "content": "This is a sample content for **Author 3**."
+    "author": "王尔德",
+    "avatar": "https://cdn.jsdelivr.net/gh/Dekelkai/bucket@img/imgs/20251001195357640.png",
+    "date": "2024-06-20 09:30:24",
+    "content": "我们都生活在阴沟里，但仍有人仰望星空。",
+    "key": "key-3",
+    "tags": ["希望", "生活", "理想"]
+  },
+  {
+    "author": "史蒂夫·乔布斯",
+    "avatar": "https://cdn.jsdelivr.net/gh/Dekelkai/bucket@img/imgs/20251001195646892.png",
+    "date": "2024-06-19 22:05:55",
+    "content": "你的时间有限，所以不要为别人而活。不要被教条所限，不要活在别人的观念里。不要让别人的意见左右自己内心的声音。最重要的是，勇敢地去追随自己的心灵和直觉。",
+    "key": "key-4",
+    "tags": ["初心", "勇气", "选择"]
+  },
+  {
+    "author": "泰戈尔",
+    "avatar": "https://cdn.jsdelivr.net/gh/Dekelkai/bucket@img/imgs/20251001195704374.png",
+    "date": "2024-06-18 14:20:00",
+    "content": "生如夏花之绚烂，死如秋叶之静美。",
+    "key": "key-5"
   }
 ]
